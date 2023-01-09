@@ -6,15 +6,8 @@ A Game of Wordle using -
 2. CSS
 3. Vanilla JavaScript
 4. Node.js
-5. APIs -
-
-```
-item1
-item2
-```
-
-a. Word Dictionary
-b. Random Words
+5. [Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)
+6. [Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)
 
 # Getting Started
 
