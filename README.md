@@ -63,7 +63,7 @@ This is just one possible approach to building a Wordle-like game. There are man
 
 5. **Maintaining security:** It is important to ensure that the game is secure and that user data is protected. This may involve implementing measures such as input validation and sanitization, as well as properly handling sensitive information such as passwords and API Keys.
 
-##Conclusion
+## Conclusion
 
 In conclusion, building a Wordle-like game using APIs and Node.js can be a challenging but rewarding project. By using APIs, the game can access and retrieve data from external sources, providing a rich and dynamic gaming experience for players. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, can be used to execute the game's code and handle its server-side logic. Some potential challenges that may arise include integrating with external APIs, managing the game state, ensuring good performance, testing and debugging, and maintaining security. By carefully designing and implementing the game, it is possible to create a fun and engaging Wordle-like game that players will enjoy.
 
