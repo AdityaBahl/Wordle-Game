@@ -3,7 +3,6 @@ const keyboard = document.querySelector('.key-container')
 const messageDisplay = document.querySelector('.message-container')
 
 let wordle
-
 const getWordle = () => {
     fetch('http://localhost:8000/word')
         .then(response => response.json())
@@ -13,7 +12,6 @@ const getWordle = () => {
         .catch(err => console.log(err))
 }
 getWordle()
-
 const keys = [
     'Q',
     'W',
