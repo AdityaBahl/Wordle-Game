@@ -9,7 +9,7 @@
 5. [Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)
 6. [Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)
 
-# Getting Started
+## Getting Started
 
 To start this project please go to RapidAPI to sign up for the [APIs](https://bit.ly/rapidapi-hub).
 
@@ -37,9 +37,19 @@ Copy the path to this file and paste it in your browser to see the game and play
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-# Why Wordle?
+## Why Wordle?
 
 Wordle is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
+
+## Algorithm
+
+1. The game generates a grid of letters and displays it to the player.
+2. The player selects a sequence of letters in the grid to form a word.
+3. The game sends a request to a dictionary API to check if the word is a valid English word.
+4. If the word is valid, the game updates the score and displays a new grid of letters to the player.
+5. If the word is not valid, the game informs the player and allows them to try again.
+
+This is just one possible approach to building a Wordle-like game. There are many other ways to design and implement such a game, and the specific algorithms and techniques used will depend on the desired features and functionality of the game.
 
 ### MIT Licence
 
