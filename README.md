@@ -1,6 +1,14 @@
 # Wordle Game Using NodeJs and APIs
 
-A Game of Wordle with the benefit of 2x API from RapidAPI
+A Game of Wordle using -
+
+1. HTML
+2. CSS
+3. Vanilla JavaScript
+4. Node.js
+5. APIs -
+   a. Word Dictionary
+   b. Random Words
 
 # Getting Started
 
