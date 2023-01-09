@@ -1,4 +1,4 @@
-# Wordle Game Using NodeJs and APIs
+# Wordle Game Using Node.js and APIs
 
 ## Technologies Used
 
