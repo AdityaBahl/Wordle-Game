@@ -1,6 +1,6 @@
 # Wordle Game Using Node.js and APIs
 
-![image](https://drive.google.com/file/d/1F5ml6B5cIqhND9aORSzGOsS7jNwt7dyf/preview)
+![image](sample.png)
 
 ## Technologies Used
 
