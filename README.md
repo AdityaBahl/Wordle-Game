@@ -37,6 +37,10 @@ Copy the path to this file and paste it in your browser to see the game and play
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+# Why Wordle?
+
+Wordle is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
+
 ### MIT Licence
 
 Copyright (c) 2023 Aditya Bahl
