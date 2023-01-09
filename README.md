@@ -11,7 +11,7 @@
 
 ## Getting Started
 
-To start this project please go to RapidAPI to sign up for the [APIs](https://bit.ly/rapidapi-hub).
+To start this project please go to **RapidAPI** to sign up for the [APIs](https://bit.ly/rapidapi-hub).
 
 ### `.env`
 
@@ -51,7 +51,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 This is just one possible approach to building a Wordle-like game. There are many other ways to design and implement such a game, and the specific algorithms and techniques used will depend on the desired features and functionality of the game.
 
-## Challenges
+## Challenges and Limitations
 
 1. **Integrating with external APIs:** Depending on the APIs used, integrating with them can be a complex task. There may be issues with authentication, rate limiting, or handling unexpected responses.
 
@@ -62,6 +62,10 @@ This is just one possible approach to building a Wordle-like game. There are man
 4. **Testing and debugging:** As with any software project, testing and debugging are important tasks that must be undertaken to ensure that the game is functioning correctly. This can be especially challenging in a web-based game that involves interactions with external APIs.
 
 5. **Maintaining security:** It is important to ensure that the game is secure and that user data is protected. This may involve implementing measures such as input validation and sanitization, as well as properly handling sensitive information such as passwords and API Keys.
+
+##Conclusion
+
+In conclusion, building a Wordle-like game using APIs and Node.js can be a challenging but rewarding project. By using APIs, the game can access and retrieve data from external sources, providing a rich and dynamic gaming experience for players. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, can be used to execute the game's code and handle its server-side logic. Some potential challenges that may arise include integrating with external APIs, managing the game state, ensuring good performance, testing and debugging, and maintaining security. By carefully designing and implementing the game, it is possible to create a fun and engaging Wordle-like game that players will enjoy.
 
 ### MIT Licence
 
