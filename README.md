@@ -2,12 +2,12 @@
 
 ## Technologies Used
 
-1. HTML
-2. CSS
-3. Vanilla JavaScript
-4. Node.js
-5. [Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)
-6. [Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)
+1. **HTML**
+2. **CSS**
+3. **Vanilla JavaScript**
+4. **Node.js**
+5. **[Word Dictionary API](https://rapidapi.com/twinword/api/word-dictionary/)**
+6. **[Random Words API](https://rapidapi.com/sheharyar566/api/random-words5/)**
 
 ## Getting Started
 
@@ -39,7 +39,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Why Wordle?
 
-Wordle is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
+**Wordle** is a web-based game that uses APIs (Application Programming Interfaces) and Node.js to provide users with a fun and interactive experience. APIs allow Wordle to access and retrieve data from external sources, such as a dictionary or thesaurus, and use that data to generate the words and challenges that players must solve. Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, is used to execute the game's code and handle its server-side logic. By using APIs and Node.js, Wordle is able to provide a seamless and dynamic gaming experience for players.
 
 ## Algorithm
 
@@ -65,7 +65,7 @@ This is just one possible approach to building a Wordle-like game. There are man
 
 ### MIT Licence
 
-Copyright (c) 2023 Aditya Bahl
+**Copyright (c) 2023 Aditya Bahl**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
