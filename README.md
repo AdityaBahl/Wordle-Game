@@ -1,4 +1,4 @@
-# wordle-javascript
+# Wordle Game Using NodeJs and APIs
 
 A Game of Wordle with the benefit of 2x API from RapidAPI
 
