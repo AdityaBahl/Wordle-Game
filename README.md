@@ -1,6 +1,6 @@
 # Wordle Game Using NodeJs and APIs
 
-A Game of Wordle using -
+# Technologies Used
 
 1. HTML
 2. CSS
