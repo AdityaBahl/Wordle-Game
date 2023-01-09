@@ -1,6 +1,6 @@
 # Wordle Game Using Node.js and APIs
 
-![image](sample.png)
+![image](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
 
 ## Technologies Used
 
