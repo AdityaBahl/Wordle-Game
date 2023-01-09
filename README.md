@@ -13,8 +13,6 @@ A Game of Wordle using -
 
 To start this project please go to RapidAPI to sign up for the [APIs](https://bit.ly/rapidapi-hub).
 
-Follow the steps in the tutorial [here](https://www.youtube.com/watch?v=mpby4HiElek) on which APIs to use and how to use them.
-
 ### `.env`
 
 Now create a `.env` file in the root of your project with the following:
