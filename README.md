@@ -7,8 +7,14 @@ A Game of Wordle using -
 3. Vanilla JavaScript
 4. Node.js
 5. APIs -
-   a. Word Dictionary
-   b. Random Words
+
+```
+item1
+item2
+```
+
+a. Word Dictionary
+b. Random Words
 
 # Getting Started
 
